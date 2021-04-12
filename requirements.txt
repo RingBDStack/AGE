@@ -1,0 +1,5 @@
+tensorflow-gpu >= 1.13.0
+numpy == 1.16.5
+scikit-learning == 0.20.1
+nmslib == 2.1.1
+annoy == 1.17.0
